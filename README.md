@@ -44,6 +44,28 @@ flutter pub get
 flutter run
 ```
 ## 📸 Screenshots
+- Signup/Login page
+- <img width="500" height="500" alt="Signup_login" src="https://github.com/user-attachments/assets/d43363db-444e-4589-bc2d-0b5f6abdae16" />
+
+- Profile Settings Page
+- <img width="500" height="500" alt="Profile setting" src="https://github.com/user-attachments/assets/c08af76d-4273-4e75-8d77-eeec7b7977a6" />
+
+- Home Page
+- <img width="500" height="500" alt="Home" src="https://github.com/user-attachments/assets/8c83c891-a8cd-4090-ab75-4a6c1f660a1b" />
+
+- Dark-mode Home Page
+- <img width="500" height="500" alt="Dark Mode" src="https://github.com/user-attachments/assets/ff96a82a-7747-4a8d-b9a0-feac49c4cdc5" />
+
+- Add Task Page
+- <img width="500" height="500" alt="Add Task" src="https://github.com/user-attachments/assets/ce5762f9-de8c-459a-b768-b45785c7277d" />
+
+- Calendar Page
+- <img width="500" height="500" alt="Calendar" src="https://github.com/user-attachments/assets/f19fffdb-50aa-45b2-8228-5aa0d88b6855" />
+
+- Analytics Page
+- <img width="500" height="500" alt="Analytics" src="https://github.com/user-attachments/assets/09d1a274-2ba7-410d-8f4f-754c5c39a304" />
+
+
 
 
 	
